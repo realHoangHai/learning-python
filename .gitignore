@@ -36,3 +36,6 @@ app.env
 # Logs
 log/
 logs/
+
+# Cache
+__pycache__
